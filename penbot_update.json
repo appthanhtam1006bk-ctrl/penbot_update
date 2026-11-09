@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "latest_version": "3.0.0",
+    "published_at": "2026-11-09",
+    "builder": {
+        "download_url": "https://drive.google.com/drive/folders/1zzV40xyRQjpPhaj0S7UbwgQFNwaCEnmV?usp=drive_link",
+        "release_notes": "Nâng cấp PenBotBuilder lên 3.0.0.\n- Cập nhật tính năng.\n- Cập nhật giao diện.\n- Tăng cường kiểm tra phiên bản khi khởi động."
+    },
+    "runner": {
+        "download_url": "https://drive.google.com/drive/folders/1zzV40xyRQjpPhaj0S7UbwgQFNwaCEnmV?usp=drive_link",
+        "release_notes": "Nâng cấp PenBotRunner lên 3.0.0.\n- Cập nhật tính năng.\n- Cập nhật giao diện.\n- Tăng cường kiểm tra phiên bản khi khởi động."
+    }
+}
